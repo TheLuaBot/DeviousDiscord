@@ -5,10 +5,10 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "discord.py"
 description = "A Python wrapper for the Discord API"
-readme = { file = "README.rst", content-type = "text/x-rst" }
+readme = { file = "README.md", content-type = "text/md" }
 license = { file = "LICENSE" }
 requires-python = ">=3.8"
-authors = [{ name = "Rapptz" }]
+authors = [{ name = "Astro" }]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "License :: OSI Approved :: MIT License",
